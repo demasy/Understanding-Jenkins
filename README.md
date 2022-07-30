@@ -3,7 +3,7 @@
 
 <br>
 
-## Install Jenkins
+## Install Jenkins [^1]
 
 
 ```shell
@@ -51,3 +51,13 @@ brew upgrade jenkins-lts
 
 http://localhost:8080
 
+
+<br>
+
+
+
+## References
+
+[^1]:
+- <a href="https://www.macminivault.com/installing-jenkins-on-macos/">Installing Jenkins on macOS</a>
+- <a href="https://www.jenkins.io/download/lts/macos/">macOS Installers for Jenkins LTS</a>
