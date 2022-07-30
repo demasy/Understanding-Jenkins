@@ -44,3 +44,10 @@ Update the Jenkins version
 ```shell
 brew upgrade jenkins-lts
 ```
+
+<br>
+
+## Jenkins
+
+http://localhost:8080
+
